@@ -1,0 +1,707 @@
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's รท(Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hop music ohh great I will look for some music in the hip hop genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome
+
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's (Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hip music ohh great I will look for some music in the hip hip genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome
+
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's รท(Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hip music ohh great I will look for some music in the hip hip genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome
+
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's รท(Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hip music ohh great I will look for some music in the hip hip genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome
+
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's รท(Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hip music ohh great I will look for some music in the hip hip genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome
+
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's รท(Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hip music ohh great I will look for some music in the hip hip genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome
+
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's รท(Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hip music ohh great I will look for some music in the hip hip genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome
+
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's รท(Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hip music ohh great I will look for some music in the hip hip genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome
+
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's รท(Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hip music ohh great I will look for some music in the hip hip genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome
+
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's รท(Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hip music ohh great I will look for some music in the hip hip genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome
+
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's รท(Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hip music ohh great I will look for some music in the hip hip genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome
+
+1 good morning	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	do you have any favourite artist
+4 Charlie Puth please	which album do you want to hear 
+5 I am in the mood for Attention	ok let me fetch some songs for you
+6 <SILENCE>	Here is the spotify link for your song "https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+7 <SILENCE>	is that the song you were looking for
+8 Yes this is the one	great enjoy the song
+9 you rock	is there anything i can help you with
+10 no thank you	you're welcome
+
+1 hello	hello what can i help you with today
+2 can you suggest me a few songs	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 I would like to hear some pop music	did you have any particular artist in mind
+5 Ed Sheeran is my favourite	ok let me look into some songs for you
+6 <SILENCE>	Here is Ed Sheeran's รท(Deluxe)- "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+7 some other song please	okay give me a minute
+8 <SILENCE>	Here is Ed Sheeran's 5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+9 sorry but I dont really like this one either	okay let me look for other options
+10 <SILENCE>	Here is Ed Sheeran's x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+11 i love this song	great so do you want anything else
+12 may i have the address of the restaurant	here it is resto_paris_moderate_british_7stars_address
+13 no thanks	you're welcome
+
+1 hi	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	how is your mood today
+4 I am in the mood for some hip hip music ohh great I will look for some music in the hip hip genre
+7 <SILENCE>	Are you in the mood for the artist Drake-More
+8 no not really	okay let me look for someone else
+9 <SILENCE>	How about the artist Kendrick Lamar
+10 yeah get me a list of the his songs please i'm on it
+11 <SILENCE> Here is Kendrick Lamar's untitled unmastered-"https://open.spotify.com/album/5WSPnYTQ6YZ1UvBRi5quhO"
+12 you are awesome thanks anytime enjoy your music
+
+1 hello	hello what can i help you with today
+2 can you play some music for me	i'm on it
+3 <SILENCE>	any preference on a music genre 
+4 I am in the mood for some rap music ohh someone is in a good mood
+5 <SILENCE>	who is your favourite artist
+6 Drake-More	nice choice I like him as well
+7 <SILENCE>	do you have a favourite album as such
+8 I really like the album Life	let me fetch some tracks for you
+9 <SILENCE>	Here is your spotify link "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+10 thanks	enjoy your music
+
+1 good morning	hello what can i help you with today
+2 i am in the mood of listening some songs	i'm on it
+3 <SILENCE>	shall I get some top tracks for you
+4 yeah that sounds good	i'm on it
+5 <SILENCE>	Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA" Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ" Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+6 no I didn't like any of these 	ok let me look into some more options for you
+7 <SILENCE>	do you like the artist Lady Gaga
+8 yes I am a big fan	sure is there anything else to update any particular album of her's
+9 yes I like the album The Cure	okay great let me fetch that song for you
+10 <SILENCE>	Here you go "https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE" 
+11 thank you so much	you are welcome

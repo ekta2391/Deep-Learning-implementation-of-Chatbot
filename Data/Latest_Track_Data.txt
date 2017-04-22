@@ -1,0 +1,30 @@
+Latest Tracks:
+
+https://api.spotify.com/v1/browse/new-releases?offset=0&limit=20
+
+Artist-Album-URL
+
+Charlie Puth - Attention-"https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA"
+Lana Del Rey -The Weeknd-"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+Lust for Life (with The Weeknd)-The Weeknd- "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G"
+Dua Lipa-Lost In Your Light (feat. Miguel)-"https://open.spotify.com/album/62p5XdeJZ6LMZ94D37rMM1"
+Sigrid-Plot Twist-"https://open.spotify.com/album/5xRmaWPtciLusgoGGtPVGk"
+Mike Perry-Body to Body-"https://open.spotify.com/album/4nCftrm5v7amR0TGNVrB2F"
+Lady Gaga-The Cure-"https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE"
+London Grammar-Oh Woman Oh Man-"https://open.spotify.com/album/5tHIS4JuAC7d2cpTmv2rCa"
+Brandon Beal-"https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
+Olivia Holt-Paradise-"https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
+Luis Fonsi-"https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG"
+Daddy Yankee-Despacito Feat. Justin Bieber (Remix)-"https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m"
+Big Boi-Mic Jack-"https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+MØ-Nights With You-"https://open.spotify.com/album/0kgy48FPwyVepPIaiO2w7G"
+Paramore-Hard Times-"https://open.spotify.com/album/7IefnE4Gu6Vwp6wayHxV40"
+Incubus-8-"https://open.spotify.com/album/3YdvnTLTd343C1osvUChnA"
+Brad Paisley-Love and War- "https://open.spotify.com/album/43xH1kPS7aNKc2WJtUHRAs"
+Blackbear-digital druglord-"https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+Zaytoven-East Atlanta Day-"https://open.spotify.com/album/5lHuouPhC6qsRWB70Ih1eV"
+Maluma-Felices los 4-"https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+COIN-How Will You Know If You Never Try-"https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
+Rise Against-The Violence-"https://open.spotify.com/album/5xvpam8ZQLu5xuwTg9LwwN"
+Bleachers-Hate That You Know Me-"https://open.spotify.com/album/4bCpmN79kxlKcNe3hNi3Sb"
+
