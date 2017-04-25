@@ -7,6 +7,7 @@ Artits id-Artist-Album-Spotify link-Genre
 6eUKZXaKkcviH0Ku9w2n3V-Ed Sheeran-÷(Deluxe)-"https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V", pop
 6eUKZXaKkcviH0Ku9w2n3V-Ed Sheeran-5-"https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE", pop
 6eUKZXaKkcviH0Ku9w2n3V-Ed Sheeran-x (Deluxe Edition)"https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd", pop
+Ed Sheeran-Shape of you-https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8, pop
 6eUKZXaKkcviH0Ku9w2n3V-Ed Sheeran-x (Wembley Edition)"https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q", pop
 6eUKZXaKkcviH0Ku9w2n3V-Ed Sheeran-Live At The Bedford-"https://open.spotify.com/album/4JUtnlZKdLr01xEIymhm0G", pop
 3TVXtAsR1Inumwj472S9r4-Drake-More Life-"https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK","canadian pop", "hip hop", "pop rap", "rap"
