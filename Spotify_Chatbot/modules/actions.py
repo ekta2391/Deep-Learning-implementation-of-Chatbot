@@ -5,13 +5,13 @@ import numpy as np
     Action Templates
 
     1. 'any preference on a type of genre',
-    2. 'api_call <album> <track>',
+    2. 'api_call <genre> <artist> <track>',
     3. 'great let me get the spotify link',
     4. 'hello what can I help you with today',
     5. 'here it is <album>',
     6. 'here it is <spotify link>',
     7. 'which album would you like to hear',
-    8. "I'm on it",
+    8. "i'm on it",
     9. 'is there anything i can help you with',
     10. 'ok let me look into some options for you',
     11. 'sure is there anything else to update',
@@ -26,8 +26,7 @@ import numpy as np
     [3] : album
     [4] : track
 
-
-'''
+'''   
 class ActionTracker():
 
     def __init__(self, ent_tracker):
@@ -41,7 +40,7 @@ class ActionTracker():
         # action mask lookup, built on intuition
         self.am_dict = {
                 '0000' : [ 4,8,1,14,7,15],
-                '0001' : [ 4,8,1,14,7],
+                '0001' : [ 4,8,1,14,10],
                 '0010' : [ 4,8,1,14,15],
                 '0011' : [ 4,8,1,14],
                 '0100' : [ 4,8,1,7,15],
@@ -53,8 +52,8 @@ class ActionTracker():
                 '1010' : [ 4,8,14,15],
                 '1011' : [ 4,8,14],
                 '1100' : [ 4,8,7,15],
-                '1101' : [ 4,8,7],
-                '1110' : [ 4,8,15],
+                '1101' : [ 4,8,7,10],
+                '1110' : [ 4,8,1,10],
                 '1111' : [ 2,3,5,6,8,9,10,11,12,13,16 ]
                 }
 
@@ -78,13 +77,13 @@ class ActionTracker():
         def extract_(response):
             template = []
             for word in response.split(' '):
-                if 'resto_' in word: 
-                    if 'phone' in word:
-                        template.append('<artist>')
-                    elif 'address' in word:
+                if 'spotify_music' in word: 
+                    if 'spotify_link' in word:
+                        template.append('<spotify_link>')
+                    elif 'genre' in word:
                         template.append('<genre>')
                     else:
-                        template.append('<spotify_link>')
+                        template.append('<artist>')
                 else:
                     template.append(word)
             return ' '.join(template)

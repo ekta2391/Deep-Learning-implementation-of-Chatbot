@@ -40,13 +40,13 @@ class Data():
         def extract_(response):
             template = []
             for word in response.split(' '):
-                if 'resto_' in word: 
-                    if 'phone' in word:
-                        template.append('<artist>')
-                    elif 'address' in word:
+                if 'spotify_music' in word: 
+                    if 'spotify_link' in word:
+                        template.append('<spotify_link>')
+                    elif 'genre' in word:
                         template.append('<genre>')
                     else:
-                        template.append('<spotify_link>')
+                        template.append('<artist>')
                 else:
                     template.append(word)
             return ' '.join(template)
