@@ -18,8 +18,8 @@ class EntityTracker():
         # constants
         self.artists = ['Charlie Puth', 'Ed Sheeran', 'Drake-More', 'Kendrick Lamar', 'Lady Gaga']
         self.genres = ['pop', 'hip hop', 'rap', 'rock', 'jazz'] 
-        self.albums = ['Attention', '5', 'x (Deluxe Edition)','x (Wembley Edition)', 'Views', 'DAMN',  'Life', 'The Cure']
-        self.tracks = ['A','B','C']
+        self.albums = ['Attention', '5', 'x (Deluxe Edition)','x (Wembley Edition)','Views','Shape of you', 'DAMN',  'Life', 'The Cure']
+        self.tracks = ['Photograph','Sunburn','Feel','Be like you','Get it together','Blem','Free Smoke']
         
 
         self.EntType = Enum('Entity Type', '<artist> <genre> <album> <track> <non_ent>')
