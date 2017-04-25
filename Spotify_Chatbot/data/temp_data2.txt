@@ -1,0 +1,2703 @@
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip hop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_hip hop R_genre hip hop
+13 spotify_music_Ed Sheeran_Photograph_hip hop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_hip hop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_hip hop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_hip hop R_spotify_link spotify_music_Ed Sheeran_Photograph_hip hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	which artist should it be 
+5 Ed Sheeran please	ok let me look into some options for you
+6 <SILENCE>	api_call pop Ed Sheeran
+7 actually i would prefer by Charlie Puth	sure is there anything else to update
+8 instead could it be for Attention	sure is there anything else to update
+9 instead could it be with hip hop genre	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Charlie Puth
+12 spotify_music_Charlie Puth_hip hop R_spotify_link spotify_music_Charlie Puth_Attention_hip hop
+13 spotify_music_Charlie Puth_hip hop R_genre hip hop
+14 spotify_music_Charlie Puth_hip hop R_album Attention
+15 spotify_music_Charlie Puth_hip hop R_artist Charlie Puth
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 may i listen to some music by Lady Gaga with hip hop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 The Cure please	ok let me look into some options for you
+5 <SILENCE>	api_call hip hop Lady Gaga The Cure
+6 actually i would prefer by Ed Sheeran	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 actually i would prefer in a album 5	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran 5
+11 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+12 spotify_music_Ed Sheeran_pop R_genre pop
+13 spotify_music_Ed Sheeran_pop R_album 5
+14 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+15 spotify_music_Ed Sheeran_pop R_track Be Like You
+16 spotify_music_Ed Sheeran_pop R_spotify_link spotify_music_Ed Sheeran_pop
+17 spotify_music_Ed Sheeran_pop R_genre pop
+18 spotify_music_Ed Sheeran_pop R_album 5
+19 spotify_music_Ed Sheeran_pop R_artist Ed Sheeran
+20 spotify_music_Ed Sheeran_pop R_track Sunburn
+21 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+22 no i don't like that	sure let me find an other option for you
+23 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+24 no i don't like that	sure let me find an other option for you
+25 <SILENCE>	what do you think of this track: https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE
+26 i love that	great let me get the spotify link
+27 thank you	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 may i listen to some music	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with hip hop genre	which artist should it be 
+5 by Drake-More	which track are you looking for
+6 i am looking for Get it together	ok let me look into some options for you
+7 <SILENCE>	api_call hip hop Drake-More Get it together
+8 instead could it be by Ed Sheeran	sure is there anything else to update
+9 actually i would prefer Shape of you	sure is there anything else to update
+10 no	ok let me look into some options for you
+11 <SILENCE>	api_call hip hop Ed Sheeran Shape of you
+12 spotify_music_Ed Sheeran_hip hop R_spotify_link spotify_music_Ed Sheeran_hip hop
+13 spotify_music_Ed Sheeran_hip hop R_genre hip hop
+14 spotify_music_Ed Sheeran_hip hop R_album Shape of you
+15 spotify_music_Ed Sheeran_hip hop R_artist Ed Sheeran
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7oJa8bPFKVbq4c7NswXHw8
+17 no this does not work for me	sure let me find an other option for you
+18 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd
+19 let's do it	great let me get the spotify link
+20 you rock	is there anything i can help you with
+21 no thanks	you're welcome
+
+1 hello	hello what can I help you with today
+2 can you play some song in rap genre by Drake-More	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 Life please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Drake-More Life
+6 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Drake-More Life
+10 spotify_music_Drake-More_pop R_spotify_link spotify_music_Drake-More_pop
+11 spotify_music_Drake-More_pop R_genre pop
+12 spotify_music_Drake-More_pop R_album Life
+13 spotify_music_Drake-More_pop R_artist Drake-More
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+15 that looks great	great let me get the spotify link
+16 thanks	is there anything i can help you with
+17 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with pop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed Sheeran	which album would you like to hear
+5 x (Deluxe Edition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call pop Ed Sheeran Photograph
+8 actually i would prefer x (Wembley Edition)	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call pop Ed Sheeran x Wembley Edition Photograph
+11 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist	
+12 spotify_music_Ed Sheeran_Photograph_pop R_genre pop
+13 spotify_music_Ed Sheeran_Photograph_pop R_artist Ed Sheeran
+14 spotify_music_Ed Sheeran_Photograph_pop R_album x Wembley Edition
+15 spotify_music_Ed Sheeran_Photograph_pop R_track Photograph
+16 spotify_music_Ed Sheeran_Photograph_pop R_spotify_link spotify_music_Ed Sheeran_Photograph_pop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 hello	hello what can I help you with today
+2 may i listen to music by Ed Sheeran	i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 i love rap genre	ok let me look into some options for you
+5 <SILENCE>	api_call rap Ed Sheeran
+6 actually i would prefer by Charlie Puth	sure is there anything else to update
+7 actually i would prefer with pop genre	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 hi	hello what can I help you with today
+2 i'd like to listen to music with rap genre i'm on it
+3 <SILENCE>	which artist should it be 
+4 Charlie Puth please	ok let me look into some options for you
+5 <SILENCE>	api_call rap Charlie Puth 
+6 actually i would prefer hip hop	sure is there anything else to update
+7 actually i would prefer pop	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Charlie Puth 
+10 spotify_music_Charlie Puth_Attention_pop R_spotify_link spotify_music_Charlie Puth_Attention_pop_resp_artist
+11 spotify_music_Charlie Puth_Attention_pop R_genre pop
+12 spotify_music_Charlie Puth_Attention_pop R_album spotify_music_Charlie Puth_Attention_pop_resp_genre
+13 spotify_music_Charlie Puth_Attention_pop R_artist Charlie Puth
+14 spotify_music_Charlie Puth_Attention_pop R_album Attention
+15 spotify_music_Charlie Puth_Attention_pop R_track Attention
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0t0NkQulrNkxw2oUZZHboA
+17 i love that	great 
+18 thanks	is there anything i can help you with
+19 no thanks	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music by Kendrick Lamar i'm on it
+3 <SILENCE>	any preference on a type of genre
+4 with pop genre	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar 
+6 instead could it be with hip hop genre	sure is there anything else to update
+7 no	ok let me look into some options for you
+8 <SILENCE>	api_call hip hop Kendrick Lamar 
+9 spotify_music_Kendrick Lamar_Feel_hip hop R_spotify_link spotify_music_Kendrick Lamar_Feel_hip hop_resp_artist
+10 spotify_music_Kendrick Lamar_Feel_hip hop R_genre hip hop
+11 spotify_music_Kendrick Lamar_Feel_hip hop R_artist Kendrick Lamar
+12 spotify_music_Kendrick Lamar_Feel_hip hop R_album DAMN
+13 spotify_music_Kendrick Lamar_Feel_hip hop R_track Feel
+14 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25
+15 i love that	great 
+16 thank you	is there anything i can help you with
+17 no thank you	you're welcome
+
+1 hi	hello what can I help you with today
+2 can you make a suggestion of song by Kendrick Lamar with pop genre	i'm on it
+3 <SILENCE>	which album would you like to hear
+4 DAMN please	ok let me look into some options for you
+5 <SILENCE>	api_call pop Kendrick Lamar DAMN
+6 instead could it be by Lady Gaga	sure is there anything else to update
+7 instead could it be from The Cure	sure is there anything else to update
+8 no	ok let me look into some options for you
+9 <SILENCE>	api_call pop Lady Gaga The Cure
+10 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+11 spotify_music_Lady Gaga_The Cure_rap R_genre rap
+12 spotify_music_Lady Gaga_The Cure_rap R_artist Lady Gaga
+13 spotify_music_Lady Gaga_The Cure_rap R_album The Cure
+14 spotify_music_Lady Gaga_The Cure_rap R_track The Cure
+15 spotify_music_Lady Gaga_The Cure_rap R_spotify_link spotify_music_Lady Gaga_The Cure_rap_resp_artist
+16 <SILENCE>	what do you think of this track: https://open.spotify.com/album/7Bh5oQckPzHqO7GHVGY5LE
+17 that looks great	great 
+18 you rock	is there anything i can help you with
+19 no thank you	you're welcome
