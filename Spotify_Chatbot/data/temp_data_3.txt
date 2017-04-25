@@ -1,0 +1,2036 @@
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
+
+1 good morning	hello what can I help you with today
+2 i'd like to listen to music with hip-hop genre	i'm on it
+3 <SILENCE>	which artist should it be 
+4 by Ed-Sheeran	which album would you like to hear
+5 x (Deluxe Edition)	please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call hip-hop Ed-Sheeran Photograph
+8 actually i would prefer x-Wembley-Edition	sure is there anything else to update
+9 no	ok let me look into some options for you
+10 <SILENCE>	api_call hip-hop Ed-Sheeran x-Wembley-Edition Photograph
+11 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist	
+12 spotify_music_Ed-Sheeran_Photograph_hip-hop R_genre	hip-hop
+13 spotify_music_Ed-Sheeran_Photograph_hip-hop R_artist	Ed-Sheeran
+14 spotify_music_Ed-Sheeran_Photograph_hip-hop R_album	x-Wembley-Edition
+15 spotify_music_Ed-Sheeran_Photograph_hip-hop R_track	Photograph
+16 spotify_music_Ed-Sheeran_Photograph_hip-hop R_spotify_link	spotify_music_Ed-Sheeran_Photograph_hip-hop_resp_artist
+17 <SILENCE>	what do you think of this track: https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+18 it's perfect	great
+19 thanks	is there anything i can help you with
+20 no thank you	you're welcome
