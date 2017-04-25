@@ -9,11 +9,11 @@ def read_dialogs(with_indices=False):
     def filter_(dialogs):
         filtered_ = []
         for row in dialogs:
-            if row[0][:6] != 'resto_':
+            if row[0][:6] != 'spotify_music':
                 filtered_.append(row)
         return filtered_
 
-    with open('data/dialog-babi-task5-full-dialogs-trn.txt') as f:
+    with open('data/temp_data_3.txt') as f:
         dialogs = filter_([ rm_index(row.split('\t')) for row in  f.read().split('\n') ])
         # organize dialogs -> dialog_indices
         prev_idx = -1
@@ -51,5 +51,5 @@ def get_entities():
     def filter_(items):
         return sorted(list(set([ item for item in items if item and '_' not in item ])))
 
-    with open('data/dialog-babi-kb-all.txt') as f:
+    with open('data/dialog-babi-task5-all-kb.txt') as f:
         return filter_([item.split('\t')[-1] for item in f.read().split('\n') ])
