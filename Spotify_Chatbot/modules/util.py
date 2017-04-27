@@ -9,11 +9,11 @@ def read_dialogs(with_indices=False):
     def filter_(dialogs):
         filtered_ = []
         for row in dialogs:
-            if row[0][:6] != 'spotify_music':
+            if row[0][:14] != 'spotify_music_':
                 filtered_.append(row)
         return filtered_
 
-    with open('data/temp_data_3.txt') as f:
+    with open('data/temp_data_6.txt') as f:
         dialogs = filter_([ rm_index(row.split('\t')) for row in  f.read().split('\n') ])
         # organize dialogs -> dialog_indices
         prev_idx = -1
@@ -36,20 +36,12 @@ def read_dialogs(with_indices=False):
 
         return updated_dialogs
 
-
+# returns the user'srequest part
 def get_utterances(dialogs=[]):
     dialogs = dialogs if len(dialogs) else read_dialogs()
     return [ row[0] for row in dialogs ]
 
+# returns the chatbot response part
 def get_responses(dialogs=[]):
     dialogs = dialogs if len(dialogs) else read_dialogs()
     return [ row[1] for row in dialogs ] 
-
-
-def get_entities():
-
-    def filter_(items):
-        return sorted(list(set([ item for item in items if item and '_' not in item ])))
-
-    with open('data/dialog-babi-task5-all-kb.txt') as f:
-        return filter_([item.split('\t')[-1] for item in f.read().split('\n') ])
