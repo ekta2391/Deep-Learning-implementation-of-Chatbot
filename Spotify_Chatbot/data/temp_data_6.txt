@@ -1,0 +1,1623 @@
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 <SILENCE>	which artist should it be
+4 by EdSheeran	which album would you like to hear
+5 x(DeluxeEdition) please	which track are you looking for
+6 Photograph please	ok let me look into some options for you
+7 <SILENCE>	api_call EdSheeran rap x(DeluxeEdition) Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by EdSheeran	sure is there anything else to update
+10 <SILENCE>	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call EdSheeran hiphop x(DeluxeEdition) Photograph
+14 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_genre hiphop
+16 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph	R_album x(DeluxeEdition)
+17 spotify_music_x(DeluxeEdition)_EdSheeran_Photograph 	R_track Photograph
+18 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 <SILENCE>	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is x(DeluxeEdition)
+25 <SILENCE>	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
