@@ -16,9 +16,9 @@ class EntityTracker():
         self.rating = None
 
         # constants
-        self.artists = ['Charlie Puth', 'Ed Sheeran', 'Drake-More', 'Kendrick Lamar', 'Lady Gaga']
-        self.genres = ['pop', 'hip hop', 'rap', 'rock', 'jazz'] 
-        self.albums = ['Attention', '5', 'x (Deluxe Edition)','x (Wembley Edition)','Views','Shape of you', 'DAMN',  'Life', 'The Cure']
+        self.artists = ['CharliePuth', 'EdSheeran', 'DrakeMore', 'KendrickLamar', 'Lady-Gaga']
+        self.genres = ['pop', 'hiphop', 'rap', 'rock', 'jazz'] 
+        self.albums = ['Attention', '5', 'x(DeluxeEdition)','x (Wembley Edition)','Views','Shape of you', 'DAMN',  'Life', 'The-Cure']
         self.tracks = ['Photograph','Sunburn','Feel','Be like you','Get it together','Blem','Free Smoke']
         
 
@@ -27,6 +27,7 @@ class EntityTracker():
 
     def ent_type(self, ent):
         if ent in self.artists:
+            #assumption this is giving us the actual artist name that we passed
             return self.EntType['<artist>'].name
         elif ent in self.genres:
             return self.EntType['<genre>'].name
@@ -54,6 +55,9 @@ class EntityTracker():
        keys = list(set(self.entities.keys()))
        self.ctxt_features = np.array( [bool(self.entities[key]) for key in keys], 
                                    dtype=np.float32 )
+       
+       
+    
        return self.ctxt_features
 
 
