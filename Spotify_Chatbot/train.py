@@ -22,8 +22,8 @@ class Trainer():
         self.dataset, dialog_indices = Data(et, at).trainset
         #self.dialog_indices_tr = dialog_indices[:200]
         #self.dialog_indices_dev = dialog_indices[200:250]
-        self.dialog_indices_tr = dialog_indices[:20]
-        self.dialog_indices_dev = dialog_indices[20:25]
+        self.dialog_indices_tr = dialog_indices[:5]
+        self.dialog_indices_dev = dialog_indices[5:9]
 
         obs_size = self.emb.dim + self.bow_enc.vocab_size + et.num_features
         self.action_templates = at.get_action_templates()
@@ -38,7 +38,7 @@ class Trainer():
     def train(self):
 
         print('\n:: training started\n')
-        epochs = 2
+        epochs = 500
         for j in range(epochs):
             # iterate through dialogs
             num_tr_examples = len(self.dialog_indices_tr)
@@ -56,7 +56,7 @@ class Trainer():
             accuracy = self.evaluate()
             print(':: {}.dev accuracy {}\n'.format(j+1, accuracy))
 
-            if accuracy > 0:
+            if accuracy > 0.9 :
                 self.net.save()
                 break
 
@@ -79,6 +79,7 @@ class Trainer():
             features = np.concatenate((u_ent_features, u_emb, u_bow), axis=0)
             # get action mask
             action_mask = at.action_mask()
+            print(action_mask)
             # forward propagation
             #  train step
             loss += self.net.train_step(features, r, action_mask)
@@ -93,8 +94,9 @@ class Trainer():
         self.net.reset_state()
 
         dialog_accuracy = 0.
+        
         for dialog_idx in self.dialog_indices_dev:
-
+            
             start, end = dialog_idx['start'], dialog_idx['end']
             dialog = self.dataset[start:end]
             num_dev_examples = len(self.dialog_indices_dev)
@@ -111,6 +113,7 @@ class Trainer():
             for (u,r) in dialog:
                 # encode utterance
                 u_ent = et.extract_entities(u)
+               
                 u_ent_features = et.context_features()
                 u_emb = self.emb.encode(u)
                 u_bow = self.bow_enc.encode(u)
