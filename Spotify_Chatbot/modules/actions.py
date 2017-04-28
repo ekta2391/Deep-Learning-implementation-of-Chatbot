@@ -40,24 +40,23 @@ class ActionTracker():
         self.am = np.zeros([self.action_size], dtype=np.float32)
         # action mask lookup, built on intuition
         self.am_dict = {
-                '0000' : [ 4,8,1,14,7,15],
-                '0001' : [ 4,8,1,14,7],
-                '0010' : [ 4,8,1,14,15],
-                '0011' : [ 4,8,1,14],
-                '0100' : [ 4,8,1,7,15],
-                '0101' : [ 4,8,1,7],
-                '0110' : [ 4,8,1,15],
-                '0111' : [ 4,8,1],
-                '1000' : [ 4,8,14,7,15],
-                '1001' : [ 4,8,14,7],
-                '1010' : [ 4,8,14,15],
-                '1011' : [ 4,8,14],
-                '1100' : [ 4,8,7,15],
-                '1101' : [ 4,8,7],
-                '1110' : [ 4,8,15],
-                '1111' : [ 2,3,5,6,8,9,10,11,12,13,16 ]
+                '0000' : [ 4,8,14,7,15],
+                '0001' : [ 4,8,14,7],
+                '0010' : [ 4,8,14,7],
+                '0011' : [ 4,8,7],
+                '0100' : [ 4,8,14,7],
+                '0101' : [ 4,8,7],
+                '0110' : [ 4,8,7],
+                '0111' : [ 4,8,14,7,15,7,2],
+                '1000' : [ 4,8,14,7],
+                '1001' : [ 4,8,7],
+                '1010' : [ 4,8,7],
+                '1011' : [ 4,8,14,7,15,7,2],
+                '1100' : [ 4,8,7],
+                '1101' : [ 4,8,14,7,15,7,2],
+                '1110' : [ 4,8,14,7,15,7,2],
+                '1111' : [ 10,2,11,1,13,12,3,5,6,9,16 ]
                 }
-
 
     def action_mask(self):
         # get context features as string of ints (0/1)
@@ -84,14 +83,19 @@ class ActionTracker():
             template = []
             for word in response.split(' '):
                 if 'spotify_music' in word: 
-                    if 'R_spotify_link' in word:
-                        template.append('<spotify_link>')
+                    if 'R_album' in word:
+                        template.append('<album>')
                     elif 'R_genre' in word:
                         template.append('<genre>')
-                    else:
+                    elif 'R_artist' in word:
                         template.append('<artist>')
+                    elif 'R_track' in word:
+                        template.append('<track>')
+                    else:
+                        template.append('<spotify_link>')
                 else:
                     template.append(word)
+            print(template)
             
             return ' '.join(template)
 

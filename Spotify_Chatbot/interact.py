@@ -65,6 +65,8 @@ class InteractiveSession():
                 # encode
                 u_ent = et.extract_entities(u)
                 u_ent_features = et.context_features()
+                print(u_ent)
+                print(u_ent_features)
                 u_emb = self.emb.encode(u)
                 u_bow = self.bow_enc.encode(u)
                 # concat features

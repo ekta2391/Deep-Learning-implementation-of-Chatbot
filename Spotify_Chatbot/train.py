@@ -56,7 +56,7 @@ class Trainer():
             accuracy = self.evaluate()
             print(':: {}.dev accuracy {}\n'.format(j+1, accuracy))
 
-            if accuracy > 0.9 :
+            if accuracy > 0.94:
                 self.net.save()
                 break
 
@@ -72,6 +72,7 @@ class Trainer():
         # iterate through dialog
         for (u,r) in dialog:
             u_ent = et.extract_entities(u)
+            print(u_ent)
             u_ent_features = et.context_features()
             u_emb = self.emb.encode(u)
             u_bow = self.bow_enc.encode(u)
