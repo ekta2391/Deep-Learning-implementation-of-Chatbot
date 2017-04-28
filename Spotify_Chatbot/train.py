@@ -38,7 +38,7 @@ class Trainer():
     def train(self):
 
         print('\n:: training started\n')
-        epochs = 500
+        epochs = 300
         for j in range(epochs):
             # iterate through dialogs
             num_tr_examples = len(self.dialog_indices_tr)
@@ -56,7 +56,7 @@ class Trainer():
             accuracy = self.evaluate()
             print(':: {}.dev accuracy {}\n'.format(j+1, accuracy))
 
-            if accuracy > 0.94:
+            if accuracy > 0.80:
                 self.net.save()
                 break
 

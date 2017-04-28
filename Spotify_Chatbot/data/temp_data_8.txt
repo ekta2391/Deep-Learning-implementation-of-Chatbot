@@ -1,0 +1,2319 @@
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which artist should it be
+4 by EdSheeran	which track are you looking for
+5 So please	which album would you like to hear
+6 Five	ok let me look into some options for you
+7 alright	api_call EdSheeran rap Five So
+8 actually i would prefer for Hozier Sedated	sure is there anything else to update
+9 instead could it be by Hozier	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call Hozier hiphop Hozier Sedated
+14 spotify_music_Hozier_Hozier_Sedated	R_spotify_link https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+15 spotify_music_Hozier_Hozier_Sedated	R_genre hiphop
+16 spotify_music_Hozier_Hozier_Sedated	R_artist Hozier
+17 spotify_music_Hozier_Hozier_Sedated	R_album Hozier
+18 spotify_music_Hozier_Hozier_Sedated 	R_track Sedated
+19 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+20 no this does not work for me	sure let me find an other option for you
+21 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+22 do you have something else	sure let me find an other option for you
+23 i am waiting	what do you think of this track:https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+24 it's perfect	great
+25 may i have the name of the album	here it is Hozier
+26 cool	here it is https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
+27 thanks	is there anything i can help you with
+28 no thank you	you're welcome

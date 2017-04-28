@@ -13,7 +13,7 @@ def read_dialogs(with_indices=False):
                 filtered_.append(row)
         return filtered_
 
-    with open('data/temp_data_6.txt') as f:
+    with open('data/temp_data_8.txt') as f:
         dialogs = filter_([ rm_index(row.split('\t')) for row in  f.read().split('\n') ])
         # organize dialogs -> dialog_indices
         prev_idx = -1
@@ -33,7 +33,7 @@ def read_dialogs(with_indices=False):
 
         if with_indices:
             return updated_dialogs, dialog_indices[:-1]
-
+        
         return updated_dialogs
 
 # returns the user'srequest part

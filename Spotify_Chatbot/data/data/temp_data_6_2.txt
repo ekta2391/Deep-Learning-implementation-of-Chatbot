@@ -1,0 +1,2098 @@
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome
+
+1 good morning	hello what can i help you with today
+2 i'd like to listen to some music with rap	i'm on it
+3 ok	which track are you looking for
+4 Attention please	which artist should it be
+5 by CharliePuth	which album would you like to hear
+6 Photograph	ok let me look into some options for you
+7 alright	api_call CharliePuth rap Attention Photograph
+8 actually i would prefer for Photograph	sure is there anything else to update
+9 instead could it be by CharliePuth	sure is there anything else to update
+10 maybe	any preference on a type of genre
+11 instead could it be with hiphop	sure is there anything else to update
+12 no	ok let me look into some options for you
+13 <SILENCE>	api_call CharliePuth hiphop Attention Photograph
+14 spotify_music_Attention_CharliePuth_Photograph	R_spotify_link https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+15 spotify_music_Attention_CharliePuth_Photograph	R_genre hiphop
+16 spotify_music_Attention_CharliePuth_Photograph	R_album Attention
+17 spotify_music_Attention_CharliePuth_Photograph 	R_track Photograph
+18 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+19 no this does not work for me	sure let me find an other option for you
+20 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+21 do you have something else	sure let me find an other option for you
+22 i am waiting	what do you think of this track:https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+23 it's perfect	great
+24 may i have the name of the album	here it is Attention
+25 cool	here it is https://open.spotify.com/album/0Yi8StK0Si3u2bLr3Qsm2Q
+26 thanks	is there anything i can help you with
+27 no thank you	you're welcome

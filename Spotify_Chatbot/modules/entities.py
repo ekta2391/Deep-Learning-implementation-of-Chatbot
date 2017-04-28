@@ -16,23 +16,23 @@ class EntityTracker():
         self.rating = None
 
         # constants
-        self.artists = ['CharliePuth', 'EdSheeran', 'DrakeMore', 'KendrickLamar', 'Lady-Gaga']
+        self.albums = ['Attention', 'Five', 'x(DeluxeEdition)','x (Wembley Edition)','Views', 'DAMN',  'Life', 'The-Cure','Hozier']
         self.genres = ['pop', 'hiphop', 'rap', 'rock', 'jazz'] 
-        self.albums = ['Attention', '5', 'x(DeluxeEdition)','x (Wembley Edition)','Views','Shape of you', 'DAMN',  'Life', 'The-Cure']
-        self.tracks = ['Photograph','Sunburn','Feel','Be like you','Get it together','Blem','Free Smoke']
+        self.artists = ['CharliePuth', 'EdSheeran', 'DrakeMore', 'KendrickLamar', 'Lady-Gaga','Hozier']
+        self.tracks = ['Photograph','Sunburn','Feel','Be like you','Get it together','Blem','Free Smoke','Shape of you','Sedated']
         
 
-        self.EntType = Enum('Entity Type', '<artist> <genre> <album> <track> <non_ent>')
+        self.EntType = Enum('Entity Type', '<album> <genre> <artist> <track> <non_ent>')
 
 
     def ent_type(self, ent):
-        if ent in self.artists:
+        if ent in self.albums:
             #assumption this is giving us the actual artist name that we passed
-            return self.EntType['<artist>'].name
+            return self.EntType['<album>'].name
         elif ent in self.genres:
             return self.EntType['<genre>'].name
-        elif ent in self.albums:
-            return self.EntType['<album>'].name
+        elif ent in self.artists:
+            return self.EntType['<artist>'].name
         elif ent in self.tracks:
             return self.EntType['<track>'].name
         else:
