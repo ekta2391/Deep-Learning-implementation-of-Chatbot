@@ -14,25 +14,25 @@ Install the following packages:
  - CUDA (for running on GPU systems)
  
 ## Download data:
+Download the English Wikipedia dump data for training the word2vec model. Exceute the following command to download the data
 
 ```bash
 bash download.sh
 ```
 
 ## Train the model:
+To train the model on Spotify dialogue based data, run the below command. The accuarcy threshold has been set to 0.94 after which the model's training is stopped and the model is saved to a checkpoint folder ckpt.
 
 ```bash
 python3 train.py
-# training stops when accuracy on dev set becomes > 0.99
-#  trained model is saved to ckpt/
+
 ```
 
 ## Interact with the model:
-
+Once the model has been trained on the Spotify dataset, you can now interact with the bot by running the below command. The checkpoint is loaded from the ckpt folder. 
 ```bash
 python3 interact.py
-# checkpoint from ckpt/ is loaded
-#  start interaction
+
 ```
 
 ## Sample Interaction
