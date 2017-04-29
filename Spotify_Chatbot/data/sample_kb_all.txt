@@ -1,5 +1,17 @@
-1 spotify_music_Hozier_Hozier_Sedated R_spotify_link	https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq
-1 spotify_music_Hozier_Hozier_Sedated R_genre	hip-hop
-1 spotify_music_Hozier_Hozier_Sedated R_artist	Hozier
-1 spotify_music_Hozier_Hozier_Sedated R_album	Hozier
-1 spotify_music_Hozier_Hozier_Sedated R_track	Sedated
+1 spotify_music_Life_DrakeMore_Blem R_spotify_link	https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+1 spotify_music_Life_DrakeMore_Blem R_genre	hip-hop
+1 spotify_music_Life_DrakeMore_Blem R_artist	DrakeMore
+1 spotify_music_Life_DrakeMore_Blem R_album	Life
+1 spotify_music_Life_DrakeMore_Blem R_track	Blem
+1 spotify_music_Five_EdSheeran_Photograph R_spotify_link	https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V
+1 spotify_music_Five_EdSheeran_Photograph R_genre	pop
+1 spotify_music_Five_EdSheeran_Photograph R_artist	EdSheeran
+1 spotify_music_Five_EdSheeran_Photograph R_album	Five
+1 spotify_music_Five_EdSheeran_Photograph R_track	Photograph
+1 spotify_music_DAMN_KendrickLamar_Element R_spotify_link	https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK
+1 spotify_music_DAMN_KendrickLamar_Element R_genre	hip-hop
+1 spotify_music_DAMN_KendrickLamar_Element R_artist	DrakeMore
+1 spotify_music_DAMN_KendrickLamar_Element R_album	Life
+1 spotify_music_DAMN_KendrickLamar_Element R_track	Blem
+
+
