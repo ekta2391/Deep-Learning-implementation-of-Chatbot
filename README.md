@@ -37,9 +37,7 @@ python3 interact.py
 
 ## Sample Interaction
 
-
- 
-  
+Refer to the report
  
  
   
